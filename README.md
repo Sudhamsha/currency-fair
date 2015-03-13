@@ -8,3 +8,4 @@
 <p><strong>Frontend:</strong> /application/controllers/frontend.php</p>
 <p><strong>View:</strong> /application/views/currencyfair.php</p>
 
+<p>Data is changed real-time using pusher api</p>
