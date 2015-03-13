@@ -1,0 +1,48 @@
+body{
+	color: #333;
+}
+#container{
+	width: 80%;
+	margin: 0px auto;
+	font: 400 1em "omnes-pro","Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+#connections{
+	width: 45%;
+	float: left;
+	height: 183px; 
+	overflow: scroll;
+	background: black;
+	color: #1e8235;
+	padding: 10px;
+}
+#latest_conversions{
+	width: 45%;
+	float: right;
+}
+
+.footer{
+	clear: both;
+}
+table{
+	border: 1px solid;
+    font-size: 0.75em;
+    width: 90%
+}
+table td{
+	text-align: center;
+}
+tr.new{
+	background: #2e864a;
+}
+.highchart-container{
+	width: 100%;
+}
+.highchart{
+	visibility: hidden;
+	height: 1px;
+}
+h3{
+	clear: both;
+	margin-top: 250px;
+}
