@@ -13,3 +13,5 @@
 <p><strong>Sample JSON: </strong>{"userId": "134256", "currencyFrom": "EUR", "currencyTo": "GBP", "amountSell": 1000, "amountBuy": 747.10, "rate": 0.7471, "timePlaced" : "24-JAN-15 10:27:44", "originatingCountry" : "FR"}</p>
 
 <p>Data is changed real-time using pusher api</p>
+
+<p><strong>online url:</strong> http://sudskitchen.com/currency-fair </strong>
